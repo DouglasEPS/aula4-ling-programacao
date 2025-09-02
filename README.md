@@ -1,2 +1,7 @@
-# aula4-ling-programacao
-Exercícios referente a aula 4.
+# Douglas Santos
+
+**GRR:** 20250662  
+**Disciplina:** Linguagens de Programação  
+**Conteúdo:** Exercícios Aula 3  
+
+Repositório com os exercícios da terceira aula da disciplina.
